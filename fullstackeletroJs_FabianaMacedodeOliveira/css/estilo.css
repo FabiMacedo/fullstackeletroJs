@@ -1,0 +1,82 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu{
+    background-color: red;
+    margin: -10px;
+    padding: 10px;
+    
+}
+.menu img{
+    width:100px;
+    
+}
+.pagina{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    margin: 120px;
+}
+
+.categorias {
+    display: inline-block;
+    width: 20%;
+    
+}
+
+.categorias li{
+    list-style: none;
+    margin-left: -30px;
+}
+
+.box_produto {
+    display: inline-block;
+    width: 18%;
+}
+.produto{
+    display: inline-block;
+    width: 80%;
+}
+.produto img{
+    width: 120px;
+    height: 120px;
+}
+
+.preco_ant{
+    text-decoration: line-through;
+    margin-bottom: 0px;
+}
+
+.preco{
+    color: red;
+    margin-top: 0px;
+
+}
+
+.lojas{
+    width: 33%;
+    display: inline-block;
+}
+.contato{
+    margin: 50px;
+    width: 20%;
+    display: inline-block;
+}
+.contato img{
+    width: 50px;
+}
+
+.formas_pag{
+    color: red;
+    font-weight: bold;
+}
+
+#rodape{
+    text-align: center;
+}
+ 
+#rodape img{
+    width: 600px;
+    height: 150px;
+}
